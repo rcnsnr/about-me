@@ -1,7 +1,7 @@
 # about-me
 Hi There!
 
-I am an ICT professional and an engineer with passion of technology. Since 2004 I am learning stuff on a daily basis.
+I am an ICT professional and an engineer with passion of technology. Since 2004 I am learning stuffs on a daily basis.
 Currently, I am serving as a Team Lead SRE, and leading a team of 4 DevOps engineers and 4 Site Reliability Engineers. 
 In this role, I manage the team, and participate in hands-on work alongside my team members.
 
